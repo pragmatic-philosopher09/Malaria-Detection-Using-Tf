@@ -1,1 +1,1 @@
-# Malaria-Detection-Using-Tf
+# Malaria-Detection-Using-Transfer-Learning {College SE Project}
