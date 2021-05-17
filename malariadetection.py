@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 """
-@author: Krish.Naik
+@author: Priyanshu Mohanty & Harihara Sudhan
 """
 
 ## MAlaria Detection using Transfer Learning
